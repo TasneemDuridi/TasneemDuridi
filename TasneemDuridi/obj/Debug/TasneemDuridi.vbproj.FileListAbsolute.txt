@@ -1,0 +1,10 @@
+C:\Users\Tasneem\Documents\GitHub\TasneemDuridi\TasneemDuridi\bin\TasneemDuridi.dll
+C:\Users\Tasneem\Documents\GitHub\TasneemDuridi\TasneemDuridi\bin\TasneemDuridi.pdb
+C:\Users\Tasneem\Documents\GitHub\TasneemDuridi\TasneemDuridi\bin\TasneemDuridi.xml
+C:\Users\Tasneem\Documents\GitHub\TasneemDuridi\TasneemDuridi\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tasneem\Documents\GitHub\TasneemDuridi\TasneemDuridi\obj\Debug\TasneemDuridi.Resources.resources
+C:\Users\Tasneem\Documents\GitHub\TasneemDuridi\TasneemDuridi\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Tasneem\Documents\GitHub\TasneemDuridi\TasneemDuridi\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Tasneem\Documents\GitHub\TasneemDuridi\TasneemDuridi\obj\Debug\TasneemDuridi.dll
+C:\Users\Tasneem\Documents\GitHub\TasneemDuridi\TasneemDuridi\obj\Debug\TasneemDuridi.xml
+C:\Users\Tasneem\Documents\GitHub\TasneemDuridi\TasneemDuridi\obj\Debug\TasneemDuridi.pdb
